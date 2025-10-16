@@ -42,81 +42,92 @@ What I learned here Using tools like TryHackMe, VirtualBox, I was able to create
 ---
 ## **Importance of IT Security**
 
-- [[Importance of IT Security#IT Security|IT Security]]
-- [[Importance of IT Security#The CIA Triad (The Foundational Model)|The CIA Triad (The Foundational Model)]]
+- [IT Security](Importance%20of%20IT%20Security.md#it-security)
+- [The CIA Triad (The Foundational Model)](Importance%20of%20IT%20Security.md#the-cia-triad-the-foundational-model)
 	- [Confidentiality](Importance%20of%20IT%20Security.md#confidentiality)
-	- [[Importance of IT Security#Integrity |Integrity ]]
-	- [[Importance of IT Security#Availability|Availability]]
-- [[Importance of IT Security#Breaches & Incidents|Breaches & Incidents]] 
-- [[Importance of IT Security#Threat Actors & TTPs|Threat Actors & TTPs]] 
+	- [Integrity](Importance%20of%20IT%20Security.md#integrity)
+	- [Availability](Importance%20of%20IT%20Security.md#availability)
+- [Breaches & Incidents](Importance%20of%20IT%20Security.md#breaches--incidents)
+- [Threat Actors & TTPs](Importance%20of%20IT%20Security.md#threat-actors--ttps)
 
 ---
+
 ## **Career Opportunities in IT Security**
 
-- [[Career Opportunities in Cybersecurity#What is Cybersecurity|What is Cybersecurity]]
-- [[Career Opportunities in Cybersecurity#Red Team (Offensive Security)|Red Team (Offensive Security)]]
-- [[Career Opportunities in Cybersecurity#Blue Team (Defensive Security)|Blue Team (Defensive Security)]]
-- **[[Career Opportunities in Cybersecurity]]**
-	- [[Career Opportunities in Cybersecurity#High Demand|High Demand]]
-	- [[Career Opportunities in Cybersecurity#Flexible Work Setup|Flexible Work Setup]]
-	- [[Career Opportunities in Cybersecurity#High Salaries|High Salaries]]
-	- [[Career Opportunities in Cybersecurity#Global Investment|Global Investment]]
-- [[Career Opportunities in Cybersecurity#Security Operations Center (SOC)|Security Operations Center (SOC)]]
-- **[[Career Opportunities in Cybersecurity#Three Pillars of Cybersecurity|Three Pillars of Cybersecurity]]**
-	- [[Career Opportunities in Cybersecurity#People|People]]
-	- [[Career Opportunities in Cybersecurity#Processes|Processes]]
-	- [[Career Opportunities in Cybersecurity#Technology|Technology]]
-- [[Career Opportunities in Cybersecurity#Vulnerability Scanning|Vulnerability Scanning]]
----
-## Digital Forensics and Incident Response (DFIR)
-
-- [[DFIR#File System Analysis|File System Analysis]] 
-- [[DFIR#Network Logs|Network Logs]] 
-- [[DFIR#System Logs|System Logs]] 
-- [[DFIR#System Memory|System Memory]]  
----
-## OS COMMAND
-- [[OS COMMAND Injection#[!ATTACK] OS Command Injection|[!ATTACK] OS Command Injection]]
-- [[OS COMMAND Injection#Impact|Impact]]
-- [[OS COMMAND Injection#Prevention & Core Issue|Prevention & Core Issue]]
----
-## OWASP TOP 10 (2021)
-- [[OWASP TOP 10 (2021)#A01:2021-Broken Access Control|A01:2021-Broken Access Control]] 
-- [[OWASP TOP 10 (2021)#A03:2021-Injection|A03:2021-Injection]] 
-- [[OWASP TOP 10 (2021)#A04:2021-Insecure Design|A04:2021-Insecure Design]] 
-- [[OWASP TOP 10 (2021)#A07:2021-Identification and Authentication Failures|A07:2021-Identification and Authentication Failures]] 
-- [[OWASP TOP 10 (2021)#A09:2021-Security Logging and Monitoring Failures|A09:2021-Security Logging and Monitoring Failuresl]] 
-- [[OWASP TOP 10 (2021)#A10:2021-Server-Side Request Forgery (SSRF)|A10:2021-Server-Side Request Forgery (SSRF)]] 
-- 
----
-
-## Public Key Infrastructure  
-- [[Public Key Infrastructure#Public Key Infrastructure (PKI)|Public Key Infrastructure (PKI)]]  
-- [[Public Key Infrastructure#Active Directory Certificate Services (ADCS)|Active Directory Certificate Services (ADCS)]]  
-- [[Public Key Infrastructure#Certificate Authority (CA)|Certificate Authority (CA)]]  
-- [[Public Key Infrastructure#Certificate Template|Certificate Template]] 
-- [[Public Key Infrastructure#Certificate Signing Request (CSR)|Certificate Signing Request (CSR)]]
-- [[Public Key Infrastructure#Key Pair Generation (Applicant’s Role)|Key Pair Generation (Applicant’s Role)]]
-- [[Public Key Infrastructure#Process of Trust (HTTPS Communication))|Process of Trust (HTTPS Communication)]]
+- [What is Cybersecurity](Career%20Opportunities%20in%20Cybersecurity.md#what-is-cybersecurity)
+- [Red Team (Offensive Security)](Career%20Opportunities%20in%20Cybersecurity.md#red-team-offensive-security)
+- [Blue Team (Defensive Security)](Career%20Opportunities%20in%20Cybersecurity.md#blue-team-defensive-security)
+- [Career Opportunities in Cybersecurity](Career%20Opportunities%20in%20Cybersecurity.md)
+	- [High Demand](Career%20Opportunities%20in%20Cybersecurity.md#high-demand)
+	- [Flexible Work Setup](Career%20Opportunities%20in%20Cybersecurity.md#flexible-work-setup)
+	- [High Salaries](Career%20Opportunities%20in%20Cybersecurity.md#high-salaries)
+	- [Global Investment](Career%20Opportunities%20in%20Cybersecurity.md#global-investment)
+- [Security Operations Center (SOC)](Career%20Opportunities%20in%20Cybersecurity.md#security-operations-center-soc)
+- [Three Pillars of Cybersecurity](Career%20Opportunities%20in%20Cybersecurity.md#three-pillars-of-cybersecurity)
+	- [People](Career%20Opportunities%20in%20Cybersecurity.md#people)
+	- [Processes](Career%20Opportunities%20in%20Cybersecurity.md#processes)
+	- [Technology](Career%20Opportunities%20in%20Cybersecurity.md#technology)
+- [Vulnerability Scanning](Career%20Opportunities%20in%20Cybersecurity.md#vulnerability-scanning)
 
 ---
 
-## Web Application
+## **Digital Forensics and Incident Response (DFIR)**
 
-- [[Web Application#HTTP Request Methods|HTTP Request Methods]]
-- [[Web Application#Common Ports Targeted During a Hack|Common Ports Targeted During a Hack]]
-- [[Web Application#OWASP (Open Web Application Security Project)|OWASP (Open Web Application Security Project)]]
-- [[Web Application#XSS (Cross-Site Scripting) Payload Examples|XSS (Cross-Site Scripting) Payload Examples]]
-
----
-
-## Vulnerabilities and Exploits
-[[Vulnerabilities and Exploits]]
+- [File System Analysis](DFIR.md#file-system-analysis)
+- [Network Logs](DFIR.md#network-logs)
+- [System Logs](DFIR.md#system-logs)
+- [System Memory](DFIR.md#system-memory)
 
 ---
 
-## Cloud and Virtualization
+## **OS COMMAND**
 
-- [[Cloud and Virtualization#Hypervisors (Two Types) | Hypervisors (Two Types)]]
-- [[Cloud and Virtualization#Cloud Deployment Models | Cloud Deployment Models]]
-- [[Cloud and Virtualization#Cloud Access Security Broker (CASB) | Cloud Access Security Broker (CASB)]]
+- [[!ATTACK] OS Command Injection](OS%20COMMAND%20Injection.md#attack-os-command-injection)
+- [Impact](OS%20COMMAND%20Injection.md#impact)
+- [Prevention & Core Issue](OS%20COMMAND%20Injection.md#prevention--core-issue)
+
+---
+
+## **OWASP TOP 10 (2021)**
+
+- [A01:2021-Broken Access Control](OWASP%20TOP%2010%20(2021).md#a012021-broken-access-control)
+- [A03:2021-Injection](OWASP%20TOP%2010%20(2021).md#a032021-injection)
+- [A04:2021-Insecure Design](OWASP%20TOP%2010%20(2021).md#a042021-insecure-design)
+- [A07:2021-Identification and Authentication Failures](OWASP%20TOP%2010%20(2021).md#a072021-identification-and-authentication-failures)
+- [A09:2021-Security Logging and Monitoring Failures](OWASP%20TOP%2010%20(2021).md#a092021-security-logging-and-monitoring-failures)
+- [A10:2021-Server-Side Request Forgery (SSRF)](OWASP%20TOP%2010%20(2021).md#a102021-server-side-request-forgery-ssrf)
+
+---
+
+## **Public Key Infrastructure**
+
+- [Public Key Infrastructure (PKI)](Public%20Key%20Infrastructure.md#public-key-infrastructure-pki)
+- [Active Directory Certificate Services (ADCS)](Public%20Key%20Infrastructure.md#active-directory-certificate-services-adcs)
+- [Certificate Authority (CA)](Public%20Key%20Infrastructure.md#certificate-authority-ca)
+- [Certificate Template](Public%20Key%20Infrastructure.md#certificate-template)
+- [Certificate Signing Request (CSR)](Public%20Key%20Infrastructure.md#certificate-signing-request-csr)
+- [Key Pair Generation (Applicant’s Role)](Public%20Key%20Infrastructure.md#key-pair-generation-applicants-role)
+- [Process of Trust (HTTPS Communication)](Public%20Key%20Infrastructure.md#process-of-trust-https-communication)
+
+---
+
+## **Web Application**
+
+- [HTTP Request Methods](Web%20Application.md#http-request-methods)
+- [Common Ports Targeted During a Hack](Web%20Application.md#common-ports-targeted-during-a-hack)
+- [OWASP (Open Web Application Security Project)](Web%20Application.md#owasp-open-web-application-security-project)
+- [XSS (Cross-Site Scripting) Payload Examples](Web%20Application.md#xss-cross-site-scripting-payload-examples)
+
+---
+
+## **Vulnerabilities and Exploits**
+
+- [Vulnerabilities and Exploits](Vulnerabilities%20and%20Exploits.md)
+
+---
+
+## **Cloud and Virtualization**
+
+- [Hypervisors (Two Types)](Cloud%20and%20Virtualization.md#hypervisors-two-types)
+- [Cloud Deployment Models](Cloud%20and%20Virtualization.md#cloud-deployment-models)
+- [Cloud Access Security Broker (CASB)](Cloud%20and%20Virtualization.md#cloud-access-security-broker-casb)
