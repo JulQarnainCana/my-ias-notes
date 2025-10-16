@@ -44,7 +44,7 @@ What I learned here Using tools like TryHackMe, VirtualBox, I was able to create
 
 - [[Importance of IT Security#IT Security|IT Security]]
 - [[Importance of IT Security#The CIA Triad (The Foundational Model)|The CIA Triad (The Foundational Model)]]
-	- [[Importance of IT Security#Confidentiality|Confidentiality]]
+	- [Confidentiality](Importance%20of%20IT%20Security.md#confidentiality)
 	- [[Importance of IT Security#Integrity |Integrity ]]
 	- [[Importance of IT Security#Availability|Availability]]
 - [[Importance of IT Security#Breaches & Incidents|Breaches & Incidents]] 
