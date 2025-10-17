@@ -151,8 +151,8 @@ What I learned here Using tools like TryHackMe, VirtualBox, I was able to create
 
 ## Malware and Malicious
 
-- [[Malware and Malicious#Examples of Malware | Examples of Malware]]
-- [[Malware and Malicious#Virus |  Virus]]
-- [[Malware and Malicious#Ransomware |  Ransomware]]
-- [[Malware and Malicious#Analysis Methods | Analysis Methods]]
-- [[Malware and Malicious#Staying Safe from Malware/Ransomware | Staying Safe from Malware/Ransomware]]
+- [Examples of Malware](Malware%20and%20Malicious.md#examples-of-malware)
+- [Virus](Malware%20and%20Malicious.md#virus)
+- [Ransomware](Malware%20and%20Malicious.md#ransomware)
+- [Analysis Methods](Malware%20and%20Malicious.md#analysis-methods)
+- [Staying Safe from Malware/Ransomware](Malware%20and%20Malicious.md#staying-safe-from-malware-ransomware)
