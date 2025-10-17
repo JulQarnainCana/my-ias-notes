@@ -146,3 +146,13 @@ What I learned here Using tools like TryHackMe, VirtualBox, I was able to create
 - [Hypervisors (Two Types)](Cloud%20and%20Virtualization.md#hypervisors-two-types)
 - [Cloud Deployment Models](Cloud%20and%20Virtualization.md#cloud-deployment-models)
 - [Cloud Access Security Broker (CASB)](Cloud%20and%20Virtualization.md#cloud-access-security-broker-casb)
+
+---
+
+## Malware and Malicious
+
+- [[Malware and Malicious#Examples of Malware | Examples of Malware]]
+- [[Malware and Malicious#Virus |  Virus]]
+- [[Malware and Malicious#Ransomware |  Ransomware]]
+- [[Malware and Malicious#Analysis Methods | Analysis Methods]]
+- [[Malware and Malicious#Staying Safe from Malware/Ransomware | Staying Safe from Malware/Ransomware]]
