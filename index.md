@@ -9,6 +9,21 @@
 </div>
 
 ---
+## <u>Exploring PHP for Web</u>
+
+I learned that PHP is a server-side scripting language used to create dynamic and interactive web pages. It can connect with databases, handle form data, manage sessions, and generate content dynamically. Understanding PHP helps in building responsive and data-driven websites where backend logic interacts with front-end design seamlessly.
+
+<img src="Pic/PHP.png" style="width:100%; height:100%;" />
+
+---
+
+## <u>Applying Object-Oriented Programming in Our Website Project</u>
+
+From our e-commerce project, I learned how to use Object-Oriented Programming (OOP) to structure a web application effectively. We created classes for products, users, carts, and orders, each with properties and methods to manage their behaviors. By applying encapsulation, inheritance, and modular design, we made the code more organized, reusable, and easier to maintain. This approach also allowed us to efficiently add new features, such as product categories or payment options, without affecting the existing system.
+
+<img src="Pic/OOP.jpg" style="width:100%; height:100%;" />
+
+---
 
 ## <u>Linux Fundamentals Part 1: Navigating the Command Line and File System</u>
 
